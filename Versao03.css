@@ -1,0 +1,16 @@
+/* Adiciona cor vermelha ao título */
+p1 {
+    color: red;
+  }
+  
+  /* Torna o texto do parágrafo em negrito */
+  p {
+    font-weight: bold;
+  }
+  
+  /* Define o tamanho da imagem */
+  img {
+    width: 400px;
+    height: 600px;
+  }
+  
